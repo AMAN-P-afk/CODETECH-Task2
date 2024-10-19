@@ -4,7 +4,7 @@ Compnay : CODETECH IT SOLUTION
 
 ID : CT6WDS1973
 
-Domain : C++
+Domain : C++ Programming
 
 Duration : September to November 2024
 
